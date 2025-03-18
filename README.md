@@ -22,12 +22,12 @@ This utility is a PowerShell script compiled into an executable that automates t
 
 ## Compilation from Source
 
-If you prefer to compile the utility yourself from the PowerShell script (`ram_script.ps1`), follow these steps:
+If you prefer to compile the utility yourself from the PowerShell script (`ram.ps1`), follow these steps:
 
 1. **Install PS2EXE**: Run `Install-Module -Name ps2exe` in PowerShell to install the PS2EXE module.
 2. **Compile the Script**: Use the command below to compile the script:
    ```powershell
-   Invoke-PS2EXE -inputFile "path_to_ram_script.ps1" -outputFile "path_to_output_exe" -requireAdmin
+   Invoke-PS2EXE -inputFile "path_to_ram.ps1" -outputFile "path_to_output_exe" -requireAdmin
    ```
 3. **Ensure `RAMMap.exe` is in the Same Directory**: Copy `RAMMap.exe` to the directory where your newly compiled executable resides.
 
