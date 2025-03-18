@@ -37,7 +37,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 
@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Disclaimer
 
-Please read the [DISCLAIMER.md](disclaimer) before using this utility.
+Please read the [Disclaimer](DISCLAIMER.md) before using this utility.
